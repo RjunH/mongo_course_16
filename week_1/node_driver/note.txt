@@ -1,0 +1,14 @@
+Intro to Node.js Driver 
+========================
+
+- which is actually a library
+- communicate with mongodb serve with wired protocol
+- It handles things like, 
+	- opening sockets
+	- detecting errors
+	- managing connections to replica sets
+
+- code app.js
+	- making connection to mongodb 
+	- displaying docs from collections
+	- callbacks

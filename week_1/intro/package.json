@@ -1,0 +1,12 @@
+{
+"name":"into_to_npm",
+"version":"0.0.0",
+"description":"npm intro",
+"main":"app.js",
+"dependencies":{
+	"consolidate":"~0.9.1",
+	"express":"~3.2.6"
+},
+"author":"Arjun",
+"license":"BSD"
+}

@@ -1,0 +1,11 @@
+Mongo shell and mongo serve
+==============
+
+JSON, BSON
+================
+
+Node.js hello world program
+=============
+
+Intro to NPM (node packge manager)
+
